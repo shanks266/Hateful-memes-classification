@@ -1,7 +1,5 @@
 # Hateful-memes-classification
 
-# Hateful Memes Classification
-
 This project focuses on identifying hateful content in memes by combining computer vision and natural language processing techniques. With the rise in social media usage, memes have become a powerful tool for both humor and harm. This work aims to detect memes that potentially spread hate by leveraging deep learning and explainable AI (XAI) methods.
 
 ## Project Summary
@@ -73,10 +71,4 @@ To gain insights into what influenced the model predictions, we applied:
 
 Each model had inferences documented showing token-level attributions and visual heatmaps.
 
-## How to Run
 
-Clone this repository and install the requirements:
-```bash
-git clone https://github.com/yourusername/hateful-memes-classification.git
-cd hateful-memes-classification
-pip install -r requirements.txt
